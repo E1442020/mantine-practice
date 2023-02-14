@@ -33,14 +33,14 @@ h2{
  }
  form{
   display: flex;
-  gap: 20px;
+  gap: 15px;
   
   input{
     padding: 9px 18px;
-    width:60%;
+    width:55%;
   }
   button{
-    width:40%;
+    width:45%;
     
 
   }
