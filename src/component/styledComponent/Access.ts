@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const AccessComponent=styled.div`
-background-color: #6d6875;
+background-color: #006d77;
 
 `
 export const AccessContainer = styled.div`
@@ -30,7 +30,7 @@ h2{
     color: white;
 }
 p{
-    color: #c8b6ff;
+    color: #ccd5ae;
 }
 
 `
@@ -49,7 +49,7 @@ input{
     padding:10px
 }
 button{
-    width:50%;
+    width:55%;
     color: white;
     border:1px solid white;
 }

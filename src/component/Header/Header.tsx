@@ -4,13 +4,11 @@ import {
   HeaderContent,
   HeaderImg
 } from "../styledComponent/HeaderStyle";
-import img from './pexels-lukas-574080.jpg';
+import img from "./pexels-lukas-574080.jpg";
 export default function Headerr() {
   return (
     <HeaderContainer>
       <HeaderContent>
-
-        
         <h2>All your files in one secure location, accessible anywhere</h2>
         <p>
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae,
@@ -25,7 +23,7 @@ export default function Headerr() {
         </form>
       </HeaderContent>
       <HeaderImg>
-        <img src={img} alt=""/>
+        <img src={img} alt="" />
       </HeaderImg>
     </HeaderContainer>
   );
